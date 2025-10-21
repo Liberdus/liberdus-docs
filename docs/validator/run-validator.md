@@ -8,17 +8,7 @@ This guide will walk you through the process of installing and running a Liberdu
 
 ## Hardware Requirements
 
-To operate a Liberdus Validator Node reliably, your server should meet at least the following specifications:
-
-- CPU: 2 cores (dedicated or virtual)
-- Memory: 2 GB RAM
-- Storage: 256 GB SSD
-- Network: 1 Gbps connection with a minimum of 1 TB monthly bandwidth
-- Security & Reliability: DDoS protection, power backup, and redundant Internet connectivity
-
-> 💡 A VPS meeting these requirements is typically available for under $30/month from most reputable hosting providers.
-
-Although it is technically possible to run a validator node from home, doing so is not recommended. Residential connections often lack power redundancy and stable Internet access, increasing the risk of downtime and potential penalties for node unavailability.
+To operate a Liberdus Validator Node reliably, you can refer to the specifications provided in the official repository: <https://github.com/Liberdus/validator-dashboard>
 
 ## OS Requirements
 

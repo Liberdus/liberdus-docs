@@ -8,16 +8,7 @@ Reliable infrastructure and secure operations are critical to running a Liberdus
 
 ## Hardware & Infrastructure Requirements
 
-| Component          | Minimum                               | Recommended                     |
-| ------------------ | ------------------------------------- | ------------------------------- |
-| CPU                | 4 cores                               | 8+ cores                        |
-| Memory (RAM)       | 16 GB                                 | 32 GB                           |
-| Storage            | 1 TB SSD (NVMe preferred)             | High throughput NVMe / PCIe SSD |
-| Network Connection | Stable, ≥ 100 Mbps                    | Redundant dual 1 Gbps links     |
-| Uptime             | 99.9% or higher                       | —                               |
-| OS                 | Linux / Unix (supported distribution) | —                               |
-
-> Meeting or exceeding these specs reduces downtime, lag, and performance penalties.
+Refer to the specifications provided in the official repository: <https://github.com/Liberdus/validator-dashboard>
 
 ## Validator Performance & Monitoring
 
