@@ -8,7 +8,7 @@ Reliable infrastructure and secure operations are critical to running a Liberdus
 
 ## Hardware & Infrastructure Requirements
 
-Refer to the specifications provided in the official repository: <https://github.com/Liberdus/validator-dashboard>
+Refer to the specifications provided in the official repository: https://github.com/Liberdus/validator-dashboard
 
 ## Validator Performance & Monitoring
 
