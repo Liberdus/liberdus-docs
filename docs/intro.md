@@ -25,3 +25,11 @@ All messages on Liberdus are protected by quantum-resistant end-to-end encryptio
 - **Scalability** - Liberdus achieves high throughput and low latency through the Shardus protocol’s sharded consensus and load-balancing system. The network’s performance improves as new nodes join.
 
 - **Open Source** - All major components of the platform are open source, allowing public inspection, verification, and contribution. Trust is placed in transparent code rather than centralized authority.
+
+## Support
+
+You can also contact us directly at:
+
+- **Twitter(X):** [@liberdus](https://x.com/liberdus)
+- **Discord:** [link](https://discord.gg/2cpJzFnwCR)
+- **GitHub:** [https://github.com/Liberdus](https://github.com/Liberdus)
