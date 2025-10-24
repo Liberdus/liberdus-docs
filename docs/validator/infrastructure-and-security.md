@@ -24,4 +24,4 @@ Refer to the specifications provided in the official repository: https://github.
   - Violating protocol rules
 - Protective measures exist to reduce accidental slashing.
 - Repeated performance failures can lead to removal from the validator set.
-- The protocol prioritizes **safety over liveness**, penalizing misbehavior even if it temporarily reduces validator availability.
+- The network penalizes behaviour even if it temporarily unavailable.

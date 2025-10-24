@@ -6,6 +6,12 @@ sidebar_position: 1
 
 The **Liberdus Validator** is a core component of the Liberdus network, responsible for securing consensus, validating transactions, and participating in the governance and reward system. This section covers its roles, requirements, lifecycle, risks, and operational guidelines.
 
+## Running a Validator Node
+
+Running a Liberdus Validator Node allows developers and infrastructure operators to directly participate in block validation, network governance, and performance testing. Whether you’re joining the testnet, devnet, or setting up a localnet instance for development, the Liberdus validator stack provides a Docker-based setup designed for fast deployment, reproducibility, and easy updates.
+
+For complete installation, configuration, and staking instructions including hardware requirements, firewall setup, and update management, please refer to the GitHub Readme: [https://github.com/Liberdus/validator-dashboard](https://github.com/Liberdus/validator-dashboard)
+
 ## Validator Roles and Responsibilities
 
 * Validators lock (stake) LIB tokens to earn the right to participate in block validation (consensus).
