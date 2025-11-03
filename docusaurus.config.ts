@@ -16,7 +16,7 @@ const config: Config = {
   url: 'https://liberdus.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -43,6 +43,9 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Set routeBasePath to '/' so docs are at the root of baseUrl
+          // With baseUrl='/docs/', this makes docs available at /docs/intro, /docs/..., etc.
+          routeBasePath: '/',
         },
         theme: {
           customCss: './src/css/custom.css',
