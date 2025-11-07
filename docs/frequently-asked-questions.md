@@ -4,4 +4,4 @@ sidebar_position: 4
 
 # Frequently Asked Questions
 
-Coming Soon
+When is the Liberdus mainnet? 
