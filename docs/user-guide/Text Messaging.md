@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # 💬 Text Messaging
 
-## How to Send a New Message
+## 💬 How to Send a New Message
 
 **Purpose:**  
 Start a conversation with another Liberdus user by searching their username or using their QR code.

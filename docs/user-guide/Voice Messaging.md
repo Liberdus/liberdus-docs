@@ -4,6 +4,8 @@ sidebar_position: 7
 
 # 🎙️ Voice Messaging
 
+## 🎙️ How to Send A Voice Message
+
 ## ✏️ Steps: Sending a Voice Message
 1. Open a **chat** with the user you want to message.  
 2. Tap the **microphone icon** next to the message input bar.  

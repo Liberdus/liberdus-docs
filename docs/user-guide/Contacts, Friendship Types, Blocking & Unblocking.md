@@ -1,8 +1,9 @@
 ---
 sidebar_position: 5
 ---
+# 📇 Contacts, Friendship Types, Blocking & Unblocking
 
-## How to Add or Manage Contacts
+## 📇 How to Add or Manage Contacts
 
 **Purpose:**  
 Save frequently messaged users to your Contacts list and manage their relationship settings  

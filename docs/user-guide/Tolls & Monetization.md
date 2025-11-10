@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 💰 Tolls & Monetization
 
-## How to Change Your Toll Amount
+## 💰 How to Change Your Toll Amount
 
 **Purpose:**  
 Update the toll amount that other users must pay to send you a message or payment.  
