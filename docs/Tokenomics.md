@@ -25,7 +25,7 @@ LIB functions both as a **coin** on the Liberdus network and a **bridged token**
 ---
 
 ## ⚖️ Design Philosophy
-The figure **210 million** pays homage to Bitcoin’s **21 million** cap — adding an extra zero to reflect Liberdus’s broader economic scope as both a **decentralized payment network** and **messaging infrastructure**.
+The figure **210 million** pays homage to Bitcoin’s **21 million** cap- adding an extra zero to reflect Liberdus’s broader economic scope as both a **decentralized payment network** and **messaging infrastructure**.
 
 ---
 
@@ -35,7 +35,7 @@ The name **Liberdus** merges two historical references that symbolize freedom an
 - **Libertas:** The Roman goddess representing liberty and civil freedom, often depicted on coins.  
 - **Solidus:** A gold coin introduced by Emperor Constantine, notable for maintaining weight and purity for centuries, representing economic trust and reliability.  
 
-Together, they form **Liberdus** — a network embodying **freedom of communication** and **monetary stability** within a decentralized, censorship-resistant environment.
+Together, they form **Liberdus**- a network embodying **freedom of communication** and **monetary stability** within a decentralized, censorship-resistant environment.
 
 ---
 
@@ -53,7 +53,7 @@ LIB serves multiple roles across the Liberdus ecosystem:
 | **Fee Burning** | 100% of transaction fees are burnt, introducing continuous disinflation. |
 | **Validator Penalties** | All slashed tokens from misbehaving validators are permanently burnt. |
 
-🔥 The LIB token’s **deflationary nature** is enforced through constant burning across multiple dimensions — fees, tolls, penalties, and more — ensuring **long-term scarcity**.
+🔥 The LIB token’s **deflationary nature** is enforced through constant burning across multiple dimensions- fees, tolls, penalties, and more- ensuring **long-term scarcity**.
 
 ---
 
@@ -66,10 +66,10 @@ LIB serves multiple roles across the Liberdus ecosystem:
 | **Shardus Token (ULT) Holders** | 10% | 21 | 2 years | Distributed to ULT holders post-mainnet to reward early contributors. |
 | **Other Communities** | 25% | 52.5 | 2 years | Airdrops to verified users from partner ecosystems and platforms. |
 | **Network Operations & Node Rewards** | 30% | 63 | Minted as needed | Covers validator incentives, liquidity provisioning, and ongoing development. |
-| **Total** | **100%** | **210M LIB** | — | Capped, never to be exceeded. |
+| **Total** | **100%** | **210M LIB** |- | Capped, never to be exceeded. |
 
 🧱 **Note:**  
-The maximum supply will never be fully reached — all transaction, toll, penalty, and governance fees are **permanently burnt**.
+The maximum supply will never be fully reached- all transaction, toll, penalty, and governance fees are **permanently burnt**.
 
 ---
 
@@ -92,7 +92,7 @@ Liberdus’s monetary policy is designed for **scarcity, adaptability, and susta
 | Mechanism | Description |
 |------------|-------------|
 | **Capped Elastic Supply** | LIB can enter inflationary or deflationary phases depending on network demand, but total supply can never exceed 210M. |
-| **Autoscaling Alignment** | Node rewards automatically adjust to scaling needs — higher network load yields proportionally higher validator incentives. |
+| **Autoscaling Alignment** | Node rewards automatically adjust to scaling needs- higher network load yields proportionally higher validator incentives. |
 | **Fee & Burn Coupling** | All network activity (messages, transactions, tolls, and governance) burns LIB, maintaining supply balance. |
 | **Validator Sustainability** | Node operators receive consistent, predictable rewards designed to remain profitable even during low-demand periods. |
 
@@ -142,7 +142,7 @@ As adoption grows:
 - Node rewards will rely increasingly on **organic network activity**, not new supply.  
 
 This creates a self-reinforcing cycle:  
-**Use → Burn → Scarcity → Value** — ensuring Liberdus’s monetary ecosystem remains sustainable indefinitely.
+**Use → Burn → Scarcity → Value**- ensuring Liberdus’s monetary ecosystem remains sustainable indefinitely.
 
 ---
 
@@ -154,8 +154,8 @@ This creates a self-reinforcing cycle:
 | **Max Supply** | 210,000,000 LIB |
 | **Type** | Utility + Governance Token |
 | **Supply Model** | Capped Elastic Supply |
-| **Governance Model** | LDAO (Liberdus DAO) — 1 token = 1 burn |
+| **Governance Model** | LDAO (Liberdus DAO)- 1 token = 1 burn |
 | **Inflation Control** | Adaptive, autoscaling-based issuance |
 | **Burn Mechanisms** | Fees, tolls, governance, and validator slashing |
-| **Launch Type** | Fair launch — no VC, no pre-sale |
+| **Launch Type** | Fair launch- no VC, no pre-sale |
 | **Monetary Objective** | Long-term scarcity with sustainable validator incentives |

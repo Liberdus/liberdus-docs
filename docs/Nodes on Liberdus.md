@@ -49,7 +49,7 @@ Active and standby nodes share the **same hardware requirements**.
 - The network frequently rotates standby nodes into the active set to keep all nodes profitable and synchronized.  
 - All nodes after becoming active nodes will eventually become standby nodes again and then be re-rotated into the active set. 
 
-🔁 **Purpose:**  
+🔁   
 Standby nodes ensure a **constant pool of ready validators**, enabling greater decentralization, seamless autoscaling and the maintaining of network security.
 
 ---

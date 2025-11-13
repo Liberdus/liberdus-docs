@@ -33,7 +33,7 @@ PoQo’s innovation lies in balancing **efficiency**, **security**, and **decent
 ## 🧠 Notes
 
 - **Collector-based voting** minimizes redundant communication and boosts consensus speed.  
-- **Sequential fallback** guarantees liveness — if one collector fails, another takes over.  
+- **Sequential fallback** guarantees liveness- if one collector fails, another takes over.  
 - **Penalization system** ensures validators remain honest and performant.  
 - **Supermajority rule** maintains Byzantine fault tolerance across shards.  
 - PoQo enables Liberdus to **scale horizontally without central bottlenecks**, aligning with its mission of censorship-resistant global communication.

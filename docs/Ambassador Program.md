@@ -44,10 +44,10 @@ Ambassadors will help strengthen the Liberdus community by:
 ## 🧩 Core Values
 
 Ambassadors represent Liberdus’s ethos of:
-- **Privacy** — respecting user data and secure communication  
-- **Transparency** — maintaining honesty and openness  
-- **Decentralization** — empowering communities, not central control  
-- **Integrity** — avoiding misinformation or misleading claims  
+- **Privacy**- respecting user data and secure communication  
+- **Transparency**- maintaining honesty and openness  
+- **Decentralization**- empowering communities, not central control  
+- **Integrity**- avoiding misinformation or misleading claims  
 
 These values will form the foundation of the program and all ambassador activity.
 

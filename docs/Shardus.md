@@ -15,7 +15,7 @@ Liberdus is one such implementation, focused on **private, censorship-resistant 
 
 ## 💡 Why Liberdus Chose Shardus
 
-Liberdus is not just a payment or communication network — it’s a **social messaging infrastructure** that must handle message volumes comparable to mainstream apps like **WhatsApp or Telegram**, while remaining **decentralized, censorship-resistant, and trustless**.
+Liberdus is not just a payment or communication network- it’s a **social messaging infrastructure** that must handle message volumes comparable to mainstream apps like **WhatsApp or Telegram**, while remaining **decentralized, censorship-resistant, and trustless**.
 
 Shardus was chosen because:
 
@@ -34,7 +34,7 @@ Unlike most blockchain platforms, where transaction costs **rise massively as th
 
 🔹 **It offers auto-scaling**, allowing the network to **dynamically adjust its node count and capacity** as usage grows.
 
-For Liberdus, these properties translate directly into **fast, censorship-resistant, and privacy-preserving messaging** that can **scale globally** without relying on centralized servers — and without ever pricing out users through fee inflation.
+For Liberdus, these properties translate directly into **fast, censorship-resistant, and privacy-preserving messaging** that can **scale globally** without relying on centralized servers- and without ever pricing out users through fee inflation.
 
 ---
 
@@ -47,4 +47,4 @@ Shardus enables Liberdus to achieve what centralized messengers cannot:
 - **Auto-scaling and low node costs** mean global participation is **practical, not theoretical**.  
 - **Permanently low fees** ensure long-term accessibility, regardless of network size or activity level.  
 
-In essence, **Shardus transforms decentralized messaging from an ideal into an implementable system** — allowing **Liberdus** to function as a **fully peer-to-peer network** where **privacy, scalability, and openness coexist** harmoniously.
+In essence, **Shardus transforms decentralized messaging from an ideal into an implementable system**- allowing **Liberdus** to function as a **fully peer-to-peer network** where **privacy, scalability, and openness coexist** harmoniously.

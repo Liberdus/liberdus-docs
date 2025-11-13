@@ -47,7 +47,7 @@ Unlike centralized exchanges (CEXs), they:
 - Are governed by **smart contracts**, not companies  
 - Provide **transparency**, since all trades occur on-chain  
 
-For Liberdus, DEXs ensure that users remain in full control of their LIB tokens — in line with the project’s mission of privacy, decentralization, and user sovereignty.
+For Liberdus, DEXs ensure that users remain in full control of their LIB tokens- in line with the project’s mission of privacy, decentralization, and user sovereignty.
 
 ---
 
@@ -90,6 +90,6 @@ New pools may be added over time as Liberdus expands to additional networks or a
 - **LIB** fuels the Liberdus ecosystem, from staking to messaging to governance.  
 - **DEXs** like Uniswap enable permissionless and censorship-resistant LIB trading.  
 - **Liquidity pools** keep LIB markets fluid, allowing seamless swaps and fair pricing.  
-- **Trading pairs** define the markets LIB can interact with — currently **USDC**, **MATIC**, and **ETH**.  
+- **Trading pairs** define the markets LIB can interact with- currently **USDC**, **MATIC**, and **ETH**.  
 
 Providing liquidity to these pools helps strengthen the **Liberdus economy** and ensures that decentralized communication and finance remain open to everyone.

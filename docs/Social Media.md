@@ -21,7 +21,7 @@ Join the conversation, follow updates, and be part of the growing community shap
 
 ## 🧭 Guidelines
 
-- Always verify you’re joining **official accounts** listed here — beware of impersonations.  
+- Always verify you’re joining **official accounts** listed here- beware of impersonations.  
 - Avoid sharing private keys, seed phrases, or wallet data in public chats.  
 - For security or partnership inquiries, use verified contact points from **[liberdus.com](https://liberdus.com)**.  
 
