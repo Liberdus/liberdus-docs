@@ -28,90 +28,11 @@ All messages on Liberdus are protected by quantum-resistant end-to-end encryptio
 
 ## Downloads
 
-Liberdus is available in beta for **Web**, **Android**, and **iOS**. Each platform provides the same quantum-secure messaging experience.
+Liberdus can be downloaded for [**Web**, **Android**, and **iOS**](https://liberdus.com/download/).
 
-### Choosing Your Platform
+## Support
 
-Liberdus works seamlessly across all platforms, so you can choose based on your preference or use multiple versions simultaneously with the same account.
-
-<div className="row">
-  <div className="col col--4">
-    <div className="card" style={{
-      height: '240px',
-      display: 'flex', 
-      flexDirection: 'column',
-      border: '1px solid var(--ifm-color-emphasis-300)'
-    }}>
-      <div className="card__header" style={{flexShrink: 0}}>
-        <h3 style={{margin: 0}}>📱 iOS</h3>
-      </div>
-      <div className="card__body" style={{
-        flex: 1,
-        display: 'flex', 
-        flexDirection: 'column',
-        justifyContent: 'space-between',
-        padding: '16px'
-      }}>
-        <p style={{margin: '0 0 12px 0'}}>Beta testing available on iPhone & iPad</p>
-        <div>
-          <a href="https://testflight.apple.com/join/zSRCWyxy" className="button button--primary button--block" style={{marginBottom: '8px'}}>Download TestFlight</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div className="col col--4">
-    <div className="card" style={{
-      height: '240px',
-      display: 'flex', 
-      flexDirection: 'column',
-      border: '1px solid var(--ifm-color-emphasis-300)'
-    }}>
-      <div className="card__header" style={{flexShrink: 0}}>
-        <h3 style={{margin: 0}}>🤖 Android</h3>
-      </div>
-      <div className="card__body" style={{
-        flex: 1,
-        display: 'flex', 
-        flexDirection: 'column',
-        justifyContent: 'space-between',
-        padding: '16px'
-      }}>
-        <p style={{margin: '0 0 12px 0'}}>Join the beta testing program</p>
-        <div>
-          <a href="#" className="button button--primary button--block" style={{marginBottom: '8px'}}>Google Play Beta</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div className="col col--4">
-    <div className="card" style={{
-      height: '240px',
-      display: 'flex', 
-      flexDirection: 'column',
-      border: '1px solid var(--ifm-color-emphasis-300)'
-    }}>
-      <div className="card__header" style={{flexShrink: 0}}>
-        <h3 style={{margin: 0}}>🌐 Web Browser</h3>
-      </div>
-      <div className="card__body" style={{
-        flex: 1,
-        display: 'flex', 
-        flexDirection: 'column',
-        justifyContent: 'space-between',
-        padding: '16px'
-      }}>
-        <p style={{margin: '0 0 12px 0'}}>Try Liberdus instantly in your browser</p>
-        <div>
-          <a href="https://liberdus.com/test" className="button button--primary button--block" style={{marginBottom: '8px'}}>Launch Web App</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<br />
-
-## Troubleshooting & Support
-
-- Join the **[Liberdus Discord community](https://discord.gg/2cpJzFnwCR)** for real-time support.  
-- Report issues or feedback directly through in-app feedback tools.
-- Visit our **[GitHub page](https://github.com/liberdus)** to report bugs or view known issues.
+- For general questions, please checkout the [**user guide**](https://liberdus.com/docs/category/user-guide) and [**FAQ**](https://liberdus.com/docs/frequently-asked-questions).
+- For specific questions, join the **[Liberdus Discord](https://liberdus.com/discord)**  help channel.  
+- Report issues or feedback directly through our **[GitHub page](https://github.com/liberdus)**.
+- Security related reports can be sent to security@liberdus.com

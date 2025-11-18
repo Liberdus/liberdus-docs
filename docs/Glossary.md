@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # 📘 Glossary
 
 A concise reference for key technical and economic terms used in the **Liberdus** ecosystem.

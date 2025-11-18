@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 ---
 
 # 🛠️ Support
@@ -11,6 +11,7 @@ The Liberdus team and community are here to ensure your experience is **smooth, 
 ## 📚 How to Get Support
 
 ### 1️⃣ Knowledge Base  
+
 Start by visiting our **User Guide** section in the docs, where you’ll find:
 
 - Step-by-step guides and Frequently Asked Questions (FAQs)  
@@ -18,6 +19,7 @@ Start by visiting our **User Guide** section in the docs, where you’ll find:
 These resources help you **navigate the Liberdus ecosystem** and solve most issues quickly.
 
 ### 2️⃣ Community Channels  
+
 Join the **Liberdus Community** to connect directly with users and team members:
 
 - **Telegram**- Chat with the community, share tips, and get updates.  
@@ -26,6 +28,7 @@ Join the **Liberdus Community** to connect directly with users and team members:
 Both platforms are actively moderated and supported by the **Liberdus Core Team**.
 
 ### 3️⃣ Bug Reports & Feature Requests  
+
 Found a **bug** or have an **idea for an enhancement**?  
 
 Visit our **[GitHub Issues page](https://github.com/Liberdus/)** to:
