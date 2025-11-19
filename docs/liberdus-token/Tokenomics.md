@@ -2,21 +2,18 @@
 sidebar_position: 1
 ---
 
-# 🪙 Tokenomics
+# 🏷️ Tokenomics
 
-## Overview
-Liberdus’s tokenomics are designed to align economic incentives with the network’s **horizontally scaling architecture**.  
-By leveraging **Shardus’s dynamic state sharding and autoscaling**, the Liberdus network can dynamically expand or contract based on transaction demand, and its tokenomics model must factor this in.
+## 🌟 Overview
+Liberdus’s tokenomics are designed to align economic incentives with the network’s [**horizontally scaling**](/docs/Glossary#%EF%B8%8F-horizontal-scaling) architecture. By leveraging Shardus’s [**dynamic state sharding**](/docs/Glossary#-dynamic-state-sharding) and [**autoscaling**](/docs/Glossary#-autoscaling) the Liberdus network can dynamically expand or contract based on transaction demand, and its tokenomics model must factor this in.
 
-Liberdus employs a **capped elastic supply model** that ensures network scalability, validator profitability, and long-term sustainability without compromising decentralization.  
-The system adapts **issuance and burning** to reach a natural equilibrium between supply and demand over time.
+Liberdus employs a **capped elastic supply model** that ensures network scalability, validator profitability, and long-term sustainability without compromising decentralization. The system utilises **issuance and burning** to reach a natural equilibrium between supply and demand over time.
 
----
+For a more comprehensive breakdown of Liberdus’s tokenomics model and design, please see the [Liberdus tokenomics page](https://liberdus.com/tokenomics/).
 
-## 🪙 LIB Coin Fundamentals
+## 🪙 LIB Fundamentals
 
-The native token of the Liberdus network is **LIB**, which also serves as its **ticker symbol**.  
-LIB functions both as a **coin** on the Liberdus network and a **bridged token** on smart contract platforms like **Ethereum, BNB Chain, and Polygon**.
+The native token of the Liberdus network is **LIB**, which also serves as its **ticker symbol**. LIB functions both as a **coin** on the Liberdus network and a **bridged token** on smart contract platforms like **Ethereum, BNB Chain, and Polygon**.
 
 | Attribute | Detail |
 |------------|---------|
@@ -25,23 +22,6 @@ LIB functions both as a **coin** on the Liberdus network and a **bridged token**
 | **Divisibility** | LIB can be subdivided to 18 decimal places |
 | **Elastic Supply** | Can enter inflationary, disinflationary, or deflationary phases based on network conditions |
 | **Governance Immutability** | The 210M cap cannot be altered, even through governance |
-
----
-
-## ⚖️ Design Philosophy
-The figure **210 million** pays homage to Bitcoin’s **21 million** cap- adding an extra zero to reflect Liberdus’s broader economic scope as both a **decentralized payment network** and **messaging infrastructure**.
-
----
-
-## 🧭 Etymology
-The name **Liberdus** merges two historical references that symbolize freedom and stability:
-
-- **Libertas:** The Roman goddess representing liberty and civil freedom, often depicted on coins.  
-- **Solidus:** A gold coin introduced by Emperor Constantine, notable for maintaining weight and purity for centuries, representing economic trust and reliability.  
-
-Together, they form **Liberdus**- a network embodying **freedom of communication** and **monetary stability** within a decentralized, censorship-resistant environment.
-
----
 
 ## ⚙️ Token Utility
 
@@ -52,14 +32,12 @@ LIB serves multiple roles across the Liberdus ecosystem:
 | **Staking** | Users stake LIB to secure the network, validate transactions, and earn rewards. |
 | **Governance** | Holders can participate in on-chain governance decisions. |
 | **Rewards** | Distributed to validators, contributors, and community participants for network activity. |
-| **Gas** | LIB is used to pay transaction fees for both message and token transfers. |
+| **Gas** | LIB is used to pay transaction fees for both messages and token transfers. |
 | **Tolls** | Users can set tolls for inbound messages. 10% of each toll is burnt as an anti-spam mechanism. |
-| **Fee Burning** | 100% of transaction fees are burnt, introducing continuous disinflation. |
+| **Tx Fees Burnt** | 100% of transaction fees are burnt, introducing continuous disinflation. |
 | **Validator Penalties** | All slashed tokens from misbehaving validators are permanently burnt. |
 
-🔥 The LIB token’s **deflationary nature** is enforced through constant burning across multiple dimensions- fees, tolls, penalties, and more- ensuring **long-term scarcity**.
-
----
+The LIB token’s **deflationary nature** is enforced through constant burning across multiple dimensions- fees, tolls, penalties, and more- ensuring **long-term scarcity**.
 
 ## 💰 Token Distribution
 
@@ -72,10 +50,7 @@ LIB serves multiple roles across the Liberdus ecosystem:
 | **Network Operations & Node Rewards** | 30% | 63 | Minted as needed | Covers validator incentives, liquidity provisioning, and ongoing development. |
 | **Total** | **100%** | **210M LIB** |- | Capped, never to be exceeded. |
 
-🧱 **Note:**  
-The maximum supply will never be fully reached- all transaction, toll, penalty, and governance fees are **permanently burnt**.
-
----
+> **Important:** The maximum supply will never be fully reached, all transaction, toll, penalty, and governance fees are **permanently burnt**.
 
 ## 🚫 Fair Launch & No Private Funding
 
@@ -86,8 +61,6 @@ This ensures:
 - No early investors or insiders hold disproportionate control.  
 - Public value creation, not private capture.  
 - Long-term decentralization and community trust.
-
----
 
 ## 💠 Monetary Policy
 
@@ -102,8 +75,6 @@ Liberdus’s monetary policy is designed for **scarcity, adaptability, and susta
 
 This ensures that as Liberdus adoption grows, **issuance and burning dynamically adjust** to preserve economic equilibrium.
 
----
-
 ## ⚖️ Design Considerations
 
 Liberdus’s horizontally scaling architecture introduces unique economic requirements:
@@ -113,15 +84,13 @@ Liberdus’s horizontally scaling architecture introduces unique economic requir
 - Issuance and burning must stay in equilibrium to preserve network security and token value.
 
 Unlike vertically scaled systems, Liberdus’s throughput depends on **number of nodes**, not hardware power.  
-Maintaining an optimal **Standby-to-Active (S:A) ratio** is vital.
+Maintaining an optimal [**Standby-to-Active (S:A) ratio**](docs/Glossary#%EF%B8%8F-s-ratio-standby-to-active-ratio) is vital.
 
 The adaptive tokenomics model balances this ratio dynamically:
 - **High profitability** → increases standby nodes (boosts scalability).  
 - **Low profitability** → reduces standby nodes (conserves resources).  
 
 ✅ This ensures **efficient scaling** without excessive inflation or waste.
-
----
 
 ## 🔄 Adaptive Issuance Model
 
@@ -136,8 +105,6 @@ Instead, Liberdus employs an **adaptive issuance model**, dynamically maintainin
 
 This design keeps validator rewards competitive, maintains decentralization, and prevents long-term inflationary drift.
 
----
-
 ## 🧱 Long-Term Sustainability
 
 As adoption grows:
@@ -145,21 +112,4 @@ As adoption grows:
 - LIB will gradually become **ultra-deflationary**.  
 - Node rewards will rely increasingly on **organic network activity**, not new supply.  
 
-This creates a self-reinforcing cycle:  
-**Use → Burn → Scarcity → Value**- ensuring Liberdus’s monetary ecosystem remains sustainable indefinitely.
-
----
-
-## 🔚 Summary
-
-| Attribute | Description |
-|------------|-------------|
-| **Token Name / Symbol** | Liberdus (LIB) |
-| **Max Supply** | 210,000,000 LIB |
-| **Type** | Utility + Governance Token |
-| **Supply Model** | Capped Elastic Supply |
-| **Governance Model** | LDAO (Liberdus DAO)- 1 token = 1 burn |
-| **Inflation Control** | Adaptive, autoscaling-based issuance |
-| **Burn Mechanisms** | Fees, tolls, governance, and validator slashing |
-| **Launch Type** | Fair launch- no VC, no pre-sale |
-| **Monetary Objective** | Long-term scarcity with sustainable validator incentives |
+This creates a self-reinforcing cycle: **Use → Burn → Scarcity → Value** ensuring Liberdus’s monetary ecosystem remains sustainable indefinitely.

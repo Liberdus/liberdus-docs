@@ -10,13 +10,11 @@ Liberdus utilizes **Proof of Quorum Optimistic (PoQo)**, an advanced consensus p
 
 PoQo has evolved from earlier **PoQ variants** to address previous inefficiencies by optimizing how nodes reach consensus, while maintaining **decentralization** and **scalability**. Unlike traditional quorum-based systems that rely on extensive message exchanges or gossip, PoQo minimizes communication overhead by introducing a **collector node model**.
 
-A **collector node** is an existing active node selected from within the execution shard. Nodes in the execution shard submit their votes to a **deterministically selected collector node**, which aggregates the votes into a **transaction receipt** and distributes it back to the shard. This streamlined approach reduces the protocol's complexity from **quadratic to linear**, enabling Liberdus to maintain **high throughput** even as the network scales.
+> A **collector node** is an existing active node selected from within the execution shard. Nodes in the execution shard submit their votes to a **deterministically selected collector node**, which aggregates the votes into a **transaction receipt** and distributes it back to the shard. This streamlined approach reduces the protocol's complexity from **quadratic to linear**, enabling Liberdus to maintain **high throughput** even as the network scales.
 
 There are a multitude of benefits for Liberdus using PoQo. By leveraging **deterministic selection** and **sequential fallback mechanisms** for collector nodes, PoQo ensures that consensus is reached efficiently, even in the event of node failures or delays. This design is resilient against malicious behavior, as nodes failing to perform can be **penalized**, and evidence of misbehavior can lead to **swift corrective actions**. Furthermore, the use of a **supermajority threshold** guarantees robustness while enabling the network to handle real-time, high-volume transactions effectively.
 
 PoQo’s innovation lies in balancing **efficiency**, **security**, and **decentralization**, making it an ideal fit for **Liberdus’s dynamic and scalable architecture**.
-
----
 
 ## 📊 Summary of PoQo Advantages
 
@@ -32,9 +30,7 @@ PoQo’s innovation lies in balancing **efficiency**, **security**, and **decent
 | **Threshold** | Supermajority (2/3+) required for consensus |
 | **Core Strengths** | Efficiency • Scalability • Decentralization |
 
----
-
-## 🧠 Notes
+## 🧠 Important
 
 - **Collector-based voting** minimizes redundant communication and boosts consensus speed.  
 - **Sequential fallback** guarantees liveness- if one collector fails, another takes over.  

@@ -10,13 +10,13 @@ Liberdus is a decentralized messaging and payment platform designed for privacy,
 
 The network operates without centralized servers, instead relying on a distributed set of validator nodes powered by the Shardus protocol. This architecture enables horizontal scalability, fault tolerance, and censorship resistance.
 
-All messages on Liberdus are protected by quantum-resistant end-to-end encryption, ensuring long-term data confidentiality even against future quantum computing threats. The platform enforces no KYC requirements—users can create multiple pseudonymous accounts without phone numbers, emails, or personal identifiers.
+All messages on Liberdus are protected by quantum-resistant end-to-end encryption, ensuring long-term data confidentiality even against future quantum computing threats. The platform is anonymous and users can create multiple accounts without phone numbers, emails, or personal identifiers.
 
 ## Core Features
 
 - **Quantum Encryption** - All communications are end-to-end encrypted using a hybrid of classical and post-quantum cryptographic algorithms, ensuring security against both current and next-generation threats.
 
-- **No KYC** - Liberdus requires no phone number, email, or identity verification. Users can create multiple accounts freely and maintain full anonymity.
+- **Spam Free** - The unsolicited messages from unknown parties pay you to read and respond.
 
 - **Global Decentralization** - The platform runs on a distributed network of validator nodes rather than centralized servers. This eliminates single points of failure and provides censorship resistance by design.
 
