@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# ☢️ Infrastructure & Security
+# 🛡️ Infrastructure & Security
 
 Reliable infrastructure and secure operations are critical to running a Liberdus validator.
 

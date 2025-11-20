@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🫐 Types of Nodes
+# 🖧 Types of Nodes
 
 ## 🌐 What are nodes and why do they matter?
 

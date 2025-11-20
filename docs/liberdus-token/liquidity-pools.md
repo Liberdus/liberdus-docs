@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🌟 Liquidity Pools
+# 🏊‍♂️ Liquidity Pools
 
 ## 🧩 What Are Liquidity Pools?
 

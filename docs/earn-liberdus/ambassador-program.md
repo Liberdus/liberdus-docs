@@ -10,7 +10,7 @@ The **Liberdus Ambassador Program** will launch after mainnet to recognize and e
 
 The Ambassador Program will serve as a structured initiative for community members who demonstrate genuine passion, initiative, and understanding of the Liberdus ecosystem. Ambassadors will help educate new users, promote decentralization, and maintain the integrity of the Liberdus brand across social platforms and regional communities.
 
-> 🕒 The program will begin following the mainnet launch, once community infrastructure is ready.
+> The program will begin following the mainnet launch, once community infrastructure is ready.
 
 ## 💬 Purpose & Responsibilities
 

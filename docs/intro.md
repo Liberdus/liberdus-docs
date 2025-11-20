@@ -32,7 +32,7 @@ Liberdus can be downloaded for [**Web**, **Android**, and **iOS**](https://liber
 
 ## Support
 
-- For general questions, please checkout the [**user guide**](https://liberdus.com/docs/category/user-guide) and [**FAQ**](https://liberdus.com/docs/frequently-asked-questions).
+- For general questions, please checkout the [**user guide**](/docs/liberdus-messenger/user-guide/) and [**FAQ**](/docs/faq).
 - For specific questions, join the **[Liberdus Discord](https://liberdus.com/discord)**  help channel.  
 - Report issues or feedback directly through our **[GitHub page](https://github.com/liberdus)**.
 - Security related reports can be sent to security@liberdus.com
