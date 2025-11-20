@@ -4,18 +4,18 @@ sidebar_position: 3
 
 import ValidatorProfitabilityCalculator from '@site/src/components/ValidatorProfitabilityCalculator';
 
-# Rewards
+# 💵 Rewards
 
-Active Liberdus validators earn **LIB tokens** as rewards for validating transactions and ensuring network uptime. Rewards are distributed periodically and are proportional to each validator’s participation during active periods. This page explains how Liberdus validators earn and claim rewards for participating in network consensus.
+Active Liberdus validators earn **LIB tokens** as rewards for validating transactions and ensuring network uptime. Rewards are distributed periodically and are proportional to each validator’s participation during active periods.
 
-## Reward Distribution
+## 🤩 Reward Distribution
 
 - Active validators participate in consensus, validate transactions, and earn LIB rewards.
 - Rewards are distributed periodically while active.
 - Additional stake beyond the minimum does not increase rewards.
 - Rewards must be claimed via a transaction; automatic compounding is not supported.
 
-## Profitability Model
+## 🏈 Profitability Model
 
 Validator profitability depends on uptime, performance, and operational costs.
 
@@ -31,8 +31,8 @@ Net Income = Rewards − Operating Costs
 
 <ValidatorProfitabilityCalculator />
 
-## Best Practices
+## ✍️ Best Practices
 
 - Claim rewards periodically to avoid accumulation risk.  
-- Monitor validator performance through the Liberdus dashboard.  
+- Monitor validator performance through the [Liberdus dashboard](https://test.liberdus.com:3030/).  
 - Plan for operational expenses when estimating profitability.

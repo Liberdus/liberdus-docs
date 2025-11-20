@@ -12,12 +12,12 @@ Validators secure the Liberdus network by staking LIB tokens ensuring honesty an
 
 ## 🔄 Validator Lifecycle
 
-The lifecycle of a Liberdus validator describes the sequence of states a validator node passes through, from joining the network to exiting. Understanding this lifecycle is crucial for maintaining uptime, avoiding penalties, and maximizing rewards.
+The [lifecycle of a Liberdus validator](/docs/liberdus-token/staking.md) describes the sequence of states a validator node passes through, from joining the network to exiting. Understanding this lifecycle is crucial for maintaining uptime, avoiding penalties, and maximizing rewards.
 
 1. **Joining the Network** – Stake the minimum required LIB tokens to join the network.  
 2. **Standby Phase** – Remain online and responsive while waiting to join the active network.  
 3. **Active Phase** – Perform consensus and validate transactions.  
-4. **Rotation & Standby** – Rotate out of the active set back into standby.  
+4. **Rotation & Standby** – Validators are periodically rotated out of the active set to give standby validators a chance to participate. After rotation, a validator returns to the standby state, ready for future activation.  
 5. **Unstaking & Exit** – You can remove your stake and rewards at any time.
 
 Maintaining uptime and reliability throughout this lifecycle is essential to avoid penalties.
