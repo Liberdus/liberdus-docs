@@ -39,6 +39,7 @@ One category is general operating expenses (10%) for business functions, while t
 ### 9. How does LIB’s issuance model compare to other networks?
 
 To give a very basic summary:
+
 - Bitcoin: Fixed issuance with a halving event every ~4 years.
 - Solana: Annual 1.5% disinflation rate.
 - Algorand: Fixed periodic mints.

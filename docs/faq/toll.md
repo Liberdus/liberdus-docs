@@ -17,7 +17,7 @@ You only pay a Toll if the recipient has set you as Tolled, or if they haven't a
 You still must pay the Toll until they add you as a Friend or Connection. Your settings only affect their messages to you; not the other way around.
 
 ### 5. How much is the minimum Toll?
-The minimum toll is $0.20 USD. You cannot set a lower toll amount. However, you can disable tolls entirely by changing the toll amount to $0 USD.
+The minimum toll is $0.10 USD. You cannot set a lower toll amount. However, you can disable tolls entirely by changing the toll amount to $0 USD.
 
 ### 6. How is the toll amount paid? What currency is used?
 You enter the Toll value in USD, and Liberdus automatically converts it into LIB at the current market price.
