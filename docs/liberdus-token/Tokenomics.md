@@ -17,7 +17,6 @@ The native token of the Liberdus network is **LIB**, which also serves as its **
 
 | Attribute | Detail |
 |------------|---------|
-| **Decimals** | 18 (ERC-20 standard) |
 | **Maximum Supply** | 210,000,000 LIB |
 | **Divisibility** | LIB can be subdivided to 18 decimal places |
 | **Elastic Supply** | Can enter inflationary, disinflationary, or deflationary phases based on network conditions |

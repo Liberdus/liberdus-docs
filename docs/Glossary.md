@@ -142,7 +142,7 @@ The process of withdrawing a validator’s staked LIB after leaving the active s
 
 A network participant who locks LIB tokens to process transactions, produce receipts, and maintain consensus. Validators operate as either active or standby nodes depending on their position in the rotation cycle.
 
-### 🐽 Vertical Scalability
+### 🪜 Vertical Scalability
 
 A scaling approach where performance is improved by increasing the hardware capacity of individual nodes.
 
