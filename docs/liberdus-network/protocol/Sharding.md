@@ -22,6 +22,6 @@ Dynamic state sharding represents the most advanced and efficient method of shar
 
 ## 💬 Why It Matters for Liberdus and Decentralized Communication
 
-Dynamic state sharding forms the backbone of Liberdus’s scalable infrastructure, allowing millions of quantum encrypted messages to be processed in parallel across a distributed network. Unlike centralized messengers that rely on monolithic servers, Liberdus uses sharding to distribute both storage and computation; ensuring that no single node, entity, or server controls the flow of communication.
+Dynamic state sharding forms the backbone of Liberdus’s scalable infrastructure, allowing millions of transactions to be processed in parallel across a distributed network. Unlike centralized messengers that rely on monolithic servers, Liberdus uses sharding to distribute both storage and computation; ensuring that no single node, entity, or server controls the flow of communication.
 
 This architecture is vital for social messaging because true privacy and censorship resistance depend on decentralization. With sharding, the system can scale to global message volumes while preserving user autonomy, fault tolerance, and data integrity. In short, dynamic state sharding transforms the decentralized messaging dream into a practical, performant reality.
