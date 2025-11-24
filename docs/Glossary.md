@@ -82,7 +82,7 @@ Liberdus’s Sybil deterrence mechanism requiring validators to lock LIB tokens 
 
 The minimum number of validator votes required to achieve consensus within a shard. It ensures that decisions reflect a majority agreement of honest nodes.
 
-### ⚖️ S;A Ratio (Standby-to-Active Ratio)
+### ⚖️ S/A Ratio (Standby-to-Active Ratio)
 
 A parameter determining how many standby nodes exist relative to active nodes. It determines how long nodes spend in each state and helps balance scalability, rewards, and network resilience. 100 standby nodes with 100 active nodes would, for instance, be a 1:1 ratio, whereas 200 standby nodes and 100 active nodes would be 2:1.
 
@@ -96,7 +96,7 @@ A validator node that is fully synced with the network but not currently validat
 
 ### 💵 Stable Price
 
-An oracle-based system that pegs staking requirements to a stable USD value over a 7-day moving average. It keeps validator costs predictable even when the LIB price fluctuates.
+An oracle-based system that pegs staking requirements to a stable USD value using a moving-average window. It keeps validator costs predictable even when the LIB price fluctuates.
 
 ### 🧾 Staking
 
@@ -142,7 +142,7 @@ The process of withdrawing a validator’s staked LIB after leaving the active s
 
 A network participant who locks LIB tokens to process transactions, produce receipts, and maintain consensus. Validators operate as either active or standby nodes depending on their position in the rotation cycle.
 
-### ☢️ Vertical Scalability
+### 🐽 Vertical Scalability
 
 A scaling approach where performance is improved by increasing the hardware capacity of individual nodes.
 

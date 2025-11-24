@@ -7,9 +7,9 @@ sidebar_position: 3
 ## 🧩 What Are Liquidity Pools?
 
 A **liquidity pool** is a smart contract on a decentralized exchange (DEX) that holds two tokens in equal USD value.  
-When you trade one token for another (e.g., **LIB → USDC**), the pool automatically adjusts their ratios using an **automated market maker (AMM)** formula, keeping the market balanced.  
+When you trade one token for another (e.g., **LIB → DAI**), the pool automatically adjusts their ratios using an **automated market maker (AMM)** formula, keeping the market balanced.  
 
-Each pool has its own **trading pair**, such as `LIB / USDC`, `LIB / wETH`
+Each pool has its own **trading pair**, such as `LIB / DAI`, `LIB / wETH`
 
 Liquidity providers (LPs) deposit both tokens into these pools and earn a proportional share of trading fees whenever swaps occur.
 

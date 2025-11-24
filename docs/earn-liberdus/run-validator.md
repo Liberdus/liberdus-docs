@@ -12,6 +12,8 @@ Running a Liberdus Validator Node allows developers and infrastructure operators
 
 For complete installation, configuration, and staking instructions including hardware requirements, firewall setup, and update management, please refer to the GitHub Readme: [https://github.com/Liberdus/validator-dashboard](https://github.com/Liberdus/validator-dashboard)
 
+> Important: All standby and active node must have the required minimum stake in order to earn rewards. The staking amount and cooldown parameters are subject to change based on votes via the LDAO.
+
 ## 🌟 Validator Roles and Responsibilities
 
 * Validators lock (stake) LIB tokens to earn the right to participate in block validation (consensus).

@@ -6,7 +6,7 @@ import ValidatorProfitabilityCalculator from '@site/src/components/ValidatorProf
 
 # 💵 Rewards
 
-Active Liberdus validators earn **LIB tokens** as rewards for validating transactions and ensuring network uptime. Rewards are distributed periodically and are proportional to each validator’s participation during active periods.
+Active nodes earn **LIB tokens** as rewards for validating transactions and ensuring network uptime. Rewards are distributed periodically and are proportional to each validator’s participation during active periods.
 
 ## 🤩 Reward Distribution
 
@@ -30,6 +30,8 @@ Estimated APY: 13.14%
 Net Income = Rewards − Operating Costs
 
 <ValidatorProfitabilityCalculator />
+
+> Important: The reward parameter is hourly and set by the LDAO. The amount of time in the active set is tracked and then also when it exits. Rewards are then dispersed once the node is rotated out of the active set after 2 to 3 cycles (2 to 3 minutes).
 
 ## ✍️ Best Practices
 

@@ -2,11 +2,11 @@
 sidebar_position: 3
 ---
 
-# 💳 Payments & Wallet Integration
+# 💳 Payments & Sending LIB
 
 ### 1. Does Liberdus have a built-in wallet?
 
-Yes, Liberdus wallet that can send LIB is built into the app by design.
+Yes. Liberdus includes a built-in wallet that generates your address and lets you send and receive LIB directly inside the app.
 
 ### 2. Can I send payments in Liberdus?
 

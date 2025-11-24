@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🌟 General
+# ❓ General
 
 ### 1. What is Liberdus?
 

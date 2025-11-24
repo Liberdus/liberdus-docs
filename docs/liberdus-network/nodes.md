@@ -20,7 +20,7 @@ There are **two types of validator nodes**:
 
 **Active nodes** participate directly in consensus and validation. All nodes start as standby nodes before being **randomly selected** to become active. The frequency of rotation is determined by the S:A ratio (Standby: to Active ratio)
 
-**How it works:**:
+**How it works:**
 
 - Active nodes are rotated in and out of the set using a **First In, First Out (FIFO)** system.  
 - They earn rewards based on **time spent** in the active set.  
