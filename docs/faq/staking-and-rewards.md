@@ -24,3 +24,7 @@ Rewards can only be claimed after rotation, as validators enter a cooldown perio
 ### 5. How much can I earn by staking?
 
 Staking rewards depend on multiple factors, including network activity and token issuance schedules. A specific APY (Annual Percentage Yield) will be determined based on network conditions.
+
+### 6. What is the minimum required stake for Liberdus?
+
+The minimum stake for Liberdus can fluctuate, please see the staking tab in Liberdus app to see the minimum stake at any given time.

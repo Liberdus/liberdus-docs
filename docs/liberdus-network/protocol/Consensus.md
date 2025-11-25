@@ -6,11 +6,11 @@ sidebar_position: 5
 
 ## Proof of Quorum Optimistic (PoQo)
 
-Liberdus utilizes **Proof of Quorum Optimistic (PoQo)**, an advanced consensus protocol specifically designed for **sharded networks with large execution shard sizes**. Execution shards are a group of nodes responsible for processing and validating transactions for a specific portion of the network.
+Liberdus utilizes **[Proof of Quorum Optimistic (PoQo)](/docs/Glossary#-poqo-proof-of-quorum-optimistic)**, an advanced consensus protocol specifically designed for **sharded networks with large execution shard sizes**. Execution shards are a group of nodes responsible for processing and validating transactions for a specific portion of the network.
 
 PoQo has evolved from earlier **PoQ variants** to address previous inefficiencies by optimizing how nodes reach consensus, while maintaining **decentralization** and **scalability**. Unlike traditional quorum-based systems that rely on extensive message exchanges or gossip, PoQo minimizes communication overhead by introducing a **collector node model**.
 
-> A **collector node** is an existing active node selected from within the execution shard. Nodes in the execution shard submit their votes to a **deterministically selected collector node**, which aggregates the votes into a **transaction receipt** and distributes it back to the shard. This streamlined approach reduces the protocol's complexity from **quadratic to linear**, enabling Liberdus to maintain **high throughput** even as the network scales.
+> A **[collector node](/docs/Glossary#-collector-node)** is an existing active node selected from within the execution shard. Nodes in the execution shard submit their votes to a **deterministically selected collector node**, which aggregates the votes into a **transaction receipt** and distributes it back to the shard. This streamlined approach reduces the protocol's complexity from **quadratic to linear**, enabling Liberdus to maintain **high throughput** even as the network scales.
 
 There are a multitude of benefits for Liberdus using PoQo. By leveraging **deterministic selection** and **sequential fallback mechanisms** for collector nodes, PoQo ensures that consensus is reached efficiently, even in the event of node failures or delays. This design is resilient against malicious behavior, as nodes failing to perform can be **penalized**, and evidence of misbehavior can lead to **swift corrective actions**. Furthermore, the use of a **supermajority threshold** guarantees robustness while enabling the network to handle real-time, high-volume transactions effectively.
 

@@ -18,7 +18,7 @@ There are **two types of validator nodes**:
 
 ### 🟢 Active Nodes
 
-**Active nodes** participate directly in consensus and validation. All nodes start as standby nodes before being **randomly selected** to become active. The frequency of rotation is determined by the S:A ratio (Standby: to Active ratio)
+**[Active nodes](/docs/Glossary#-active-node)** participate directly in consensus and validation. All nodes start as standby nodes before being **randomly selected** to become active. The frequency of rotation is determined by the S:A ratio (Standby: to Active ratio)
 
 **How it works:**
 
@@ -56,7 +56,7 @@ Liberdus’s **horizontal scaling** relies on maintaining both active and standb
 
 ## 🗄️ Archiver Nodes
 
-**Archiver nodes** (archivers) are responsible for **retaining and maintaining the full state and historical data** of the Liberdus network.  
+**[Archiver nodes](/docs/Glossary#%EF%B8%8F-archiver-node)** (archivers) are responsible for **retaining and maintaining the full state and historical data** of the Liberdus network.  
 
 **Roles**
 

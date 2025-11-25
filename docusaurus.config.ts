@@ -1,33 +1,22 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
   title: 'Home',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
   url: 'https://liberdus.com/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docs/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'facebook',
+  projectName: 'docusaurus',
 
   onBrokenLinks: 'ignore',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -39,12 +28,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Set routeBasePath to '/' so docs are at the root of baseUrl
-          // With baseUrl='/docs/', this makes docs available at /docs/intro, /docs/..., etc.
           routeBasePath: '/',
         },
         theme: {
@@ -55,11 +40,12 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+
     colorMode: {
       respectPrefersColorScheme: true,
     },
+
     navbar: {
       logo: {
         href: 'https://liberdus.com',
@@ -76,29 +62,43 @@ const config: Config = {
         },
       ],
     },
+
     footer: {
-      style: 'dark',
       links: [
+        {
+          title: 'Product',
+          items: [
+            { label: 'Features', href: 'https://liberdus.com/site/#features' },
+            { label: 'Technology', href: 'https://liberdus.com/site/#technology' },
+            { label: 'Roadmap', href: 'https://liberdus.com/site/roadmap.html' },
+            { label: 'Litepaper', href: 'https://liberdus.com/Liberdus-Litepaper.pdf', target: '_blank' },
+          ],
+        },
         {
           title: 'Community',
           items: [
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/2cpJzFnwCR',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/liberdus',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/Liberdus',
-            },
+            { label: 'Discord', href: 'https://discord.gg/2cpJzFnwCR' },
+            { label: 'X (Twitter)', href: 'https://x.com/liberdus' },
+            { label: 'Substack', href: 'https://liberdus.substack.com' },
+            { label: 'YouTube', href: 'https://www.youtube.com/@Liberdus' },
+            { label: 'Telegram', href: 'https://t.me/LiberdusOfficial' },
+            { label: 'LinkedIn', href: 'https://linkedin.com/company/Liberdus' },
+            { label: 'GitHub', href: 'https://github.com/Liberdus' },
+          ],
+        },
+        {
+          title: 'Developers',
+          items: [
+            { label: 'GitHub', href: 'https://github.com/Liberdus' },
+            { label: 'Developer Chat', href: 'https://liberdus.com/discord/', target: '_blank' },
+            { label: 'Contribute', href: 'https://liberdus.com/site/#earn' },
           ],
         },
       ],
-      copyright: `© 2019 - Present Liberdus. Decentralized and unstoppable.`,
+      copyright:
+        '© 2019 - present, Liberdus. Decentralized and unstoppable.',
     },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
