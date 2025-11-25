@@ -6,7 +6,7 @@ import ValidatorProfitabilityCalculator from '@site/src/components/ValidatorProf
 
 # 💵 Rewards
 
-Active nodes earn **LIB tokens** as rewards for validating transactions and ensuring network uptime. Rewards are distributed periodically and are proportional to each validator’s participation during active periods.
+[Active nodes](/docs/Glossary#-active-node) earn **LIB tokens** as rewards for validating transactions and ensuring network uptime. Rewards are distributed periodically and are proportional to each validator’s participation during active periods.
 
 ## 🤩 Reward Distribution
 

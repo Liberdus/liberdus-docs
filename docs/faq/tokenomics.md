@@ -14,7 +14,7 @@ The maximum supply of LIB tokens is fixed at 210 million. However, due to contin
 
 ### 3. What is a “capped elastic supply model”?
 
-The LIB token uses a capped elastic supply model, meaning the supply can be inflationary, disinflationary, or deflationary based on network conditions and macroeconomic factors. This ensures that the token supply adjusts dynamically while remaining within the hard cap.
+The LIB token uses a [capped elastic supply](/docs/Glossary#%EF%B8%8F-capped-elastic-supply) model, meaning the supply can be inflationary, disinflationary, or deflationary based on network conditions and macroeconomic factors. This ensures that the token supply adjusts dynamically while remaining within the hard cap.
 
 ### 4. What is the utility of LIB?
 

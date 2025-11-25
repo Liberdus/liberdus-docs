@@ -18,7 +18,7 @@ Together, these mechanisms make Liberdus one of the few decentralized systems ca
 
 ## 🧱 Horizontal Scaling
 
-From a hardware perspective, **Liberdus** is designed to scale **horizontally**. Horizontal scaling is a method of increasing a network's capacity by **adding more nodes**. In contrast, **vertical scalability** increases capacity by upgrading existing nodes; adding extra **RAM, CPU, or storage** to the same machines. Liberdus uses **horizontal scaling** to increase **Throughput (TPS)**, **Storage** and **Bandwidth**.
+From a hardware perspective, **Liberdus** is designed to scale **horizontally**. [Horizontal scaling](/docs/Glossary#-dynamic-state-sharding) is a method of increasing a network's capacity by **adding more nodes**. In contrast, **[vertical scalability](/docs/Glossary#-vertical-scalability)** increases capacity by upgrading existing nodes; adding extra **RAM, CPU, or storage** to the same machines. Liberdus uses **horizontal scaling** to increase **Throughput (TPS)**, **Storage** and **Bandwidth**.
 
 Each additional node added to the network directly increases the **overall capacity**.
 
@@ -33,7 +33,7 @@ By scaling horizontally, Liberdus ensures sustainable growth while keeping node 
 
 ## 📈 Linear Scaling
 
-Traditional Web3 networks that use **network sharding**, **transaction sharding**, or **static state sharding** have a fixed threshold where each shard becomes “full”. This threshold is determined by the maximum number of nodes permitted within a shard. Once the shard reaches that limit, a new shard must be created; a process known as **stepwise scaling**.
+Traditional Web3 networks that use **[network sharding](/docs/Glossary#-network-sharding)**, **transaction sharding**, or **static state sharding** have a fixed threshold where each shard becomes “full”. This threshold is determined by the maximum number of nodes permitted within a shard. Once the shard reaches that limit, a new shard must be created; a process known as **[stepwise scaling](/docs/Glossary#-stepwise-scaling)**.
 
 ### Limitations of Stepwise Scaling
 
@@ -41,7 +41,7 @@ Traditional Web3 networks that use **network sharding**, **transaction sharding*
 - May cause **network disruptions or downtime**.  
 - Can introduce **efficiency bottlenecks** between shards.
 
-In contrast, **Liberdus employs linear scaling**. With **linear scaling**, the network’s capacity increases **proportionally** with each new **active node**.
+In contrast, **Liberdus employs linear scaling**. With **[linear scaling](/docs/Glossary#-linear-scaling)**, the network’s capacity increases **proportionally** with each new **active node**.
 
 For example: If each active Liberdus node provides **2 TPS**, and there are **1,000 active nodes**, the total network capacity is **2,000 TPS**. Adding two new nodes increases total throughput to **2,004 TPS**, demonstrating perfectly **predictable, linear growth**.
 

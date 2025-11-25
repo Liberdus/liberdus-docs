@@ -7,7 +7,7 @@ sidebar_position: 1
 ## 🌟 Overview
 Liberdus’s tokenomics are designed to align economic incentives with the network’s [**horizontally scaling**](/docs/Glossary#%EF%B8%8F-horizontal-scaling) architecture. By leveraging Shardus’s [**dynamic state sharding**](/docs/Glossary#-dynamic-state-sharding) and [**autoscaling**](/docs/Glossary#-autoscaling) the Liberdus network can dynamically expand or contract based on transaction demand, and its tokenomics model must factor this in.
 
-Liberdus employs a **capped elastic supply model** that ensures network scalability, validator profitability, and long-term sustainability without compromising decentralization. The system utilises **issuance and burning** to reach a natural equilibrium between supply and demand over time.
+Liberdus employs a **[capped elastic supply](/docs/Glossary#%EF%B8%8F-capped-elastic-supply) model** that ensures network scalability, validator profitability, and long-term sustainability without compromising decentralization. The system utilises **issuance and burning** to reach a natural equilibrium between supply and demand over time.
 
 For a more comprehensive breakdown of Liberdus’s tokenomics model and design, please see the [Liberdus tokenomics page](https://liberdus.com/tokenomics/).
 
