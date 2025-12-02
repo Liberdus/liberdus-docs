@@ -2,21 +2,21 @@
 sidebar_position: 5
 ---
 
-# 🛡️ Infrastructure & Security
+# Infrastructure & Security
 
 Reliable infrastructure and secure operations are critical to running a Liberdus validator.
 
-## 🌟 Hardware & Infrastructure Requirements
+## Hardware & Infrastructure Requirements
 
 Refer to the specifications provided in the official repository: https://github.com/Liberdus/validator-dashboard
 
-## 💡 Validator Performance & Monitoring
+## Validator Performance & Monitoring
 
 - Maintain redundant network links and backup power to ensure high uptime.
 - Monitor node health, latency, and logs continuously.
 - Automated alerts for downtime or errors help prevent accidental slashing.
 
-## ⚒️ Slashing & Risk Management
+## Slashing & Risk Management
 
 - Validators can be **slashed** for:
   - Double signing or equivocation

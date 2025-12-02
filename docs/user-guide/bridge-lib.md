@@ -2,11 +2,11 @@
 sidebar_position: 14
 ---
 
-# 🔁 How to Bridge LIB Assets between Networks
+# How to Bridge LIB Assets between Networks
 
 The Bridge feature lets you move LIB tokens between Liberdus and external networks (e.g., Polygon, Ethereum, etc., depending on what the network supports). You choose the direction, complete the steps, and the bridge handles the transfer.
 
-## 🧭 Where to Find the Bridge
+## Where to Find the Bridge
 
 1. Sign in to your Liberdus account.
 2. Tap the ☰ menu icon (top-right).
@@ -14,7 +14,7 @@ The Bridge feature lets you move LIB tokens between Liberdus and external networ
 
 You will now see the Bridge screen.
 
-🔄 **Step 1: Choose the Bridge Direction**
+**Step 1: Choose the Bridge Direction**
 
 1. You will see a dropdown labelled Bridge Direction.
  Select one of the following:
@@ -26,7 +26,7 @@ You will now see the Bridge screen.
 3. You will then be directed to the Liberdus Token Bridge
 4. Connect you wallet and ensure its connected to the right network
 
-🧾 **Step 2: Follow the On-Screen Instructions**
+**Step 2: Follow the On-Screen Instructions**
 
 Depending on the direction you selected, the app will ask you to:
 
@@ -47,7 +47,7 @@ You will be asked to:
 
 You will then proceed to the confirmation screen and send the transaction.
 
-## 🔐 Important Notes
+## Important Notes
 
 - Transaction typically completes in 2-5 minutes. But bridges may take some time additional to process depending on the external network.
 - Always double-check the destination address: bridged transactions cannot be reversed.

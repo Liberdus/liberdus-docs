@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 💳 Payments & Sending LIB
+# Payments & Sending LIB
 
 ### 1. Does Liberdus have a built-in wallet?
 

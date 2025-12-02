@@ -2,9 +2,9 @@
 sidebar_position: 8
 ---
 
-# 🗑️ Message Deletion
+# Message Deletion
 
-## 🚮 How to Delete Messages
+## How to Delete Messages
 
 Remove a message or voice message from a chat - either only on your own device or for both sides of the conversation.
 

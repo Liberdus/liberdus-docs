@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
 ---
-# 📇 Add or Manage Contacts
+# Add or Manage Contacts
 
-## 📌 How to Add or Manage Contacts
+## How to Add or Manage Contacts
 
 Save frequently messaged users to your Contacts list and manage their relationship settings (**Friend**, **Connection**, **Tolled**, or **Blocked**).
 
@@ -34,7 +34,7 @@ The user is now saved in your **Contacts list** and will appear under the **Cont
 - Removing a contact does **not delete past messages**; it only removes them from your saved list.  
 - Status changes take effect **immediately**.
 
-## 🚫 How to Block or Unblock Someone
+## How to Block or Unblock Someone
 
 Prevent a user from messaging you or restore communication if you change your mind.
 
@@ -62,7 +62,7 @@ Messaging is restored based on the status you selected.
 - Blocked users **cannot bypass tolls or message restrictions**.  
 - Blocking is **instant, silent, and reversible** - you remain in control.
 
-## 📝 How to Change a Contact’s Name
+## How to Change a Contact’s Name
 
 Update or personalize how a contact appears in your Liberdus contact list and chats.
 

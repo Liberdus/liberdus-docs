@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# 🔄 Account Migration, Locking & Removal
+# Account Migration, Locking & Removal
 
-## 💡 How to Migrate Accounts
+## How to Migrate Accounts
 
 If you have existing Liberdus accounts from older versions or different network builds, you can migrate them into the latest version of the app using the built-in migration tool.
 
@@ -20,7 +20,7 @@ If you have existing Liberdus accounts from older versions or different network 
 6. Wait a few moments - the app will register and import your selected accounts into the new version.  
 7. Once complete, your migrated accounts will now appear under your **main dashboard**. You can switch between them normally once migration completes.
 
-## 🔐 How to Lock Liberdus
+## How to Lock Liberdus
 
 Add a lock screen that requires a password for users to authenticate before accessing Liberdus or signing into any accounts.
 
@@ -38,7 +38,7 @@ Liberdus will now require your password whenever it’s opened.
 - Make sure your password is memorable, there is no password recovery system.
 - You can also lock you account once signed in by clicking on settings -> lock and undertaking the same process as above.
 
-## ❌ How to Remove an Account
+## How to Remove an Account
 
 Delete one or more Liberdus accounts stored on your current device.
 

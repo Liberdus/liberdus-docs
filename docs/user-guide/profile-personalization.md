@@ -2,9 +2,9 @@
 sidebar_position: 6
 ---
 
-# 👤 Profile Personalization
+# Profile Personalization
 
-## 🌟 How to Edit Your Profile or Personal Info
+## How to Edit Your Profile or Personal Info
 
 Customize your public **Liberdus profile** including your display name, contact details, and linked social accounts so your friends can recognize and connect with you easily.
 

@@ -2,9 +2,9 @@
 sidebar_position: 11
 ---
 
-# 💰 Wallet Balance & History
+# Wallet Balance & History
 
-## 💵 How to View Your LIB Wallet Balance
+## How to View Your LIB Wallet Balance
 
 Check how much **LIB** you currently own, along with its estimated value in **USD**.
 
@@ -26,7 +26,7 @@ You can instantly see your LIB holdings and their approximate USD market value.
 | **Future assets** | The Wallet tab may support additional assets later, each listed under “Assets.” |
 | **Total Balance** | If multiple assets are supported in the future, Total Balance will show the combined USD value of all assets. |
 
-## 📜 How to View Your Wallet History & Understand Transaction Types
+## How to View Your Wallet History & Understand Transaction Types
 
 Review all past wallet transactions including **Sent**, **Received**, and **Deleted** records- and quickly jump back to the related chat when needed.
 

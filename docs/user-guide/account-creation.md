@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 🔑 Account Creation & Sign In
+# Account Creation & Sign In
 
-## 🌟 How to Create an Account
+## How to Create an Account
 
 ### Steps
 1. Open or [**download Liberdus**](https://liberdus.com/site/download/).  
@@ -18,7 +18,7 @@ sidebar_position: 1
 - Each Liberdus account is **unique** and **cryptographically secured** using **quantum cryptography**, future-proofing messages.  
 - You can create multiple accounts later from the main menu if needed.
 
-## 🔐 How to Sign In to an Existing Account
+## How to Sign In to an Existing Account
 
 Use the Sign In option to access an account that’s already been created or restored on your device.
 
@@ -47,8 +47,7 @@ If there are two or more accounts stored on your device:
 - To remove old accounts you no longer use, go to **Menu → Remove**.  
 - You must sign in each time you want to **switch between accounts**.
 
-
-## 🚪 How to Sign Out
+## How to Sign Out
 
 Securely log out of your Liberdus account on your current device.
 

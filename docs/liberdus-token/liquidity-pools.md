@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# 🏊‍♂️ Liquidity Pools
+# Liquidity Pools
 
-## 🧩 What Are Liquidity Pools?
+## What Are Liquidity Pools?
 
 A **liquidity pool** is a smart contract on a decentralized exchange (DEX) that holds two tokens in equal USD value.  
 When you trade one token for another (e.g., **LIB → DAI**), the pool automatically adjusts their ratios using an **automated market maker (AMM)** formula, keeping the market balanced.  
@@ -13,7 +13,7 @@ Each pool has its own **trading pair**, such as `LIB / DAI`, `LIB / wETH`
 
 Liquidity providers (LPs) deposit both tokens into these pools and earn a proportional share of trading fees whenever swaps occur.
 
-## 💧 Why LIB Needs Liquidity Pools
+## Why LIB Needs Liquidity Pools
 
 Liquidity pools are essential for LIB’s usability and price stability. They allow anyone to buy, sell, or swap LIB without relying on centralized intermediaries or order books.  
 
@@ -26,7 +26,7 @@ By providing liquidity, users:
 
 Simply put: liquidity pools give LIB its real-world liquidity and accessibility.
 
-## 🏦 Why DEXs Are Important
+## Why DEXs Are Important
 
 **Decentralized Exchanges (DEXs)** like [**Uniswap**](https://app.uniswap.org/) are the foundation of open, permissionless finance.  
 Unlike centralized exchanges (CEXs), they:

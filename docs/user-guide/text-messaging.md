@@ -2,9 +2,9 @@
 sidebar_position: 6
 ---
 
-# 💬 Text Messaging
+# Text Messaging
 
-## 📨 How to Send a New Message
+## How to Send a New Message
 
 Start a conversation with another Liberdus user by searching their username or using their QR code.
 
@@ -36,7 +36,7 @@ Start a conversation with another Liberdus user by searching their username or u
 - If the username is **typed incorrectly**, Liberdus will not find a recipient.  
 - Once the first message is sent, the chat will remain in your **Chats list** for future conversations.
 
-## 📷 How to Scan a QR Code to Start a Chat
+## How to Scan a QR Code to Start a Chat
 
 Quickly add someone or start a new chat by scanning their **Liberdus QR code**.
 

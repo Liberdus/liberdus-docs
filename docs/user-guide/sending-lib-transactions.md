@@ -2,9 +2,9 @@
 sidebar_position: 13
 ---
 
-# 💸Sending LIB Transactions
+# Sending LIB Transactions
 
-## 🤑 How to Send LIB (Liberdus Tokens)
+## How to Send LIB (Liberdus Tokens)
 
 Transfer **LIB tokens** securely to another user- either directly from a **chat** or manually via your **wallet**.
 

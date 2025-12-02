@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 🛎️ Tokenomics
+# Tokenomics
 
 ### 1. What is LIB?
 

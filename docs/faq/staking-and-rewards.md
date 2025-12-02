@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 💰 Staking & Rewards
+# Staking & Rewards
 
 ### 1. What is staking?
 

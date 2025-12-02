@@ -2,9 +2,9 @@
 sidebar_position: 10
 ---
 
-# 📎 Sending & Receiving Files
+# Sending & Receiving Files
 
-## 📁 How to Send a File (Images, Videos, Audio, Documents)
+## How to Send a File (Images, Videos, Audio, Documents)
 
 Share files such as images, videos, music, screenshots, and documents directly through a **Liberdus chat**.
 
@@ -37,7 +37,7 @@ All selected files will appear in the chat, ready for the recipient to **view or
 - You can send **as many files as you want**, as long as each one is under 10MB.  
 - The recipient can tap any file to **view, play, or download** it.
 
-## 📥 How to Save or Download a Received File
+## How to Save or Download a Received File
 
 Download and save any file you receive in a Liberdus chat such as images, videos, music, screenshots, or documents so you can view or store it on your device.
 
