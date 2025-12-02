@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 💡 Toll
+# Toll
 
 ### 1. What is a Toll in Liberdus?
 A Toll is a small sender-paid fee required when messaging someone who has not added you as a Friend or Connection. It protects users from spam and ensures messages are meaningful.

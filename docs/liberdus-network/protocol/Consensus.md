@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 🤝 Consensus
+# Consensus
 
 ## Proof of Quorum Optimistic (PoQo)
 
@@ -16,7 +16,7 @@ There are a multitude of benefits for Liberdus using PoQo. By leveraging **deter
 
 PoQo’s innovation lies in balancing **efficiency**, **security**, and **decentralization**, making it an ideal fit for **Liberdus’s dynamic and scalable architecture**.
 
-## 📊 Summary of PoQo Advantages
+## Summary of PoQo Advantages
 
 | Feature | Description |
 |----------|-------------|
@@ -30,7 +30,7 @@ PoQo’s innovation lies in balancing **efficiency**, **security**, and **decent
 | **Threshold** | Supermajority (2/3+) required for consensus |
 | **Core Strengths** | Efficiency • Scalability • Decentralization |
 
-## 🧠 Important
+## Important
 
 - **Collector-based voting** minimizes redundant communication and boosts consensus speed.  
 - **Sequential fallback** guarantees liveness- if one collector fails, another takes over.  

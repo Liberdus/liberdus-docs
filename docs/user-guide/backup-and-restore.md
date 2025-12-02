@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🗄️ Backup & Restore
+# Backup & Restore
 
 Liberdus allows you to back up and restore your account data across devices and platforms. Backups are encrypted and portable, enabling secure migration without losing messages, keys, or settings.
 
@@ -11,7 +11,7 @@ You can use this file to restore your account on another device or browser insta
 
 > Note: The backup file is encrypted. Keep it safe and do not share it with anyone.
 
-## 💾 How to Back Up an Account
+## How to Back Up an Account
 
 Secure your data by saving an offline backup file.
 
@@ -26,7 +26,7 @@ Secure your data by saving an offline backup file.
 - Store it safely (e.g., **encrypted USB drive**, **password manager**, or a secure offline record).  
 - We recommend **encrypting your backups** to prevent data exposure to third parties.
 
-## 🗄️🛡️ How to Back Up **and Encrypt** an Account
+## How to Back Up **and Encrypt** an Account
 
 Add an extra layer of protection to your backup.
 
@@ -50,7 +50,7 @@ Add an extra layer of protection to your backup.
 | Allowed characters  | Letters, numbers, **emojis**, and symbols            |
 | Spaces              | **Allowed**                                          |
 
-## 🔄 How to Restore an Account (Unencrypted)
+## How to Restore an Account (Unencrypted)
 
 Recover an account from a standard (unencrypted) backup file.
 
@@ -63,7 +63,7 @@ Recover an account from a standard (unencrypted) backup file.
 
 Your Liberdus account will be restored and ready to use.
 
-## 🔄 How to Restore an Account (Encrypted)
+## How to Restore an Account (Encrypted)
 
 Recover an account that was saved with password protection.
 

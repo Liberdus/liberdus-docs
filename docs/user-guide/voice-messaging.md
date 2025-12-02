@@ -2,9 +2,9 @@
 sidebar_position: 7
 ---
 
-# 🎙️ Voice Messaging
+# Voice Messaging
 
-## 📢 How to Send A Voice Message
+## How to Send A Voice Message
 
 ### Steps: Sending a Voice Message
 
@@ -21,7 +21,7 @@ sidebar_position: 7
 
 The voice message will appear in the chat and can be played by the recipient once processed by the network.
 
-## 🎧 Listening to a Received Voice Message
+## Listening to a Received Voice Message
 
 1. Tap the **play button** on the voice message bubble.  
 2. Use the playback controls to:  

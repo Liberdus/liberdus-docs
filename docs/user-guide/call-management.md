@@ -2,9 +2,9 @@
 sidebar_position: 9
 ---
 
-# 📞 Call Management
+# Call Management
 
-## 🤙 How to Make a Voice Call
+## How to Make a Voice Call
 
 Start a live voice call with another Liberdus user. Liberdus uses **Jitsi** to deliver private, encrypted, peer-to-peer audio and video calls.
 
@@ -28,7 +28,7 @@ You are now on a live **voice/video call** with your contact through Jitsi.
 - Calls are **not routed through Liberdus servers**; Jitsi handles the encrypted media stream.  
 - If the other user declines or doesn’t answer, simply close the Jitsi window or try again later.
 
-## 📅 How to Schedule a Call
+## How to Schedule a Call
 
 Plan a future call with one or more Liberdus users. Scheduled calls let you set a time, notify participants, and optionally invite additional contacts to the same call event.
 
@@ -67,7 +67,7 @@ The selected users are added to the scheduled call and will receive a call notif
 - Scheduled calls support **voice or video** depending on what you enable when joining Jitsi.  
 - To change a time, simply **delete the scheduled call message** and create a new one (editing is not supported).
 
-## 📞 How to Join a Call or Scheduled Call (as a Participant)
+## How to Join a Call or Scheduled Call (as a Participant)
 
 Join a live call someone else has started or scheduled in Liberdus. Calls use **Jitsi**, so you may be asked for **microphone and camera permissions** when joining.
 
@@ -103,7 +103,7 @@ You are now in the scheduled call with the host and any other invited participan
 | **Permissions matter** | You must allow **microphone** (and **camera**) access for others to hear or see you. |
 | **Join link is unique per call** | You must join from the **call message inside the chat**, not from another conversation. |
 
-## 🕒 How to View Scheduled Calls
+## How to View Scheduled Calls
 
 See all upcoming calls you’ve scheduled or been invited to- directly from the main **Settings** menu.
 

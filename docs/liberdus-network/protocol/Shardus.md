@@ -2,16 +2,16 @@
 sidebar_position: 2
 ---
 
-# 🖧 Shardus
+# Shardus
 
-## 🧭 Overview
+## Overview
 
 **Shardus** is the underlying distributed ledger framework that powers **Liberdus**. It was created to solve the **scalability, efficiency, and decentralization** limitations of earlier blockchain designs. Unlike conventional blockchains that bundle transactions into blocks, **Shardus uses a blockless, sharded architecture** that allows transactions to be processed **individually and in parallel** across thousands of nodes. This design enables **linear scalability**, as more nodes join the network, total throughput increases proportionally, while maintaining decentralization and **low resource requirements per node**.
 
 Importantly, Shardus is not confined to Liberdus alone. It serves as a framework for building **Application Specific Chains (ASCs)**; independent, self-governing decentralized networks designed for different use cases.  
 Liberdus is one such implementation, focused on **private, censorship-resistant social communication**.
 
-## 💡 Why Liberdus Chose Shardus
+## Why Liberdus Chose Shardus
 
 Liberdus is not just a payment or communication network - it’s a **social messaging infrastructure** that must handle message volumes comparable to mainstream apps like **WhatsApp or Telegram**, while remaining **decentralized, censorship-resistant, and trustless**.
 
@@ -31,7 +31,7 @@ Shardus was chosen because:
 
 🔹 **It offers auto-scaling**, allowing the network to **dynamically adjust its node count and capacity** as usage grows.
 
-## 💬 Why It Matters for Decentralized Messaging
+## Why It Matters for Decentralized Messaging
 
 Shardus enables Liberdus to achieve what centralized messengers cannot:
 

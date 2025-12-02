@@ -2,11 +2,11 @@
 sidebar_position: 4
 ---
 
-# 💰 Tolls & Monetization
+# Tolls & Monetization
 
 The Toll Settings controls how much another user must pay to send you a message or payment in Liberdus. This feature helps manage spam and ensures fair network participation.
 
-## 💰 How to Change Your Toll Amount
+## How to Change Your Toll Amount
 
 Update the toll amount that other users must pay to send you a message or payment. This helps you control spam and manage who can contact you freely.
 
@@ -26,7 +26,7 @@ Update the toll amount that other users must pay to send you a message or paymen
 
 > To prevent all **unsolicited messages**, set a **higher toll** and to allow **open communication**, set your toll to **0 USD**.
 
-## 💸 How to Reclaim a Toll After 7 Days
+## How to Reclaim a Toll After 7 Days
 
 If you send a message with a toll and the recipient does not reply, you can reclaim the unused toll after **7 days**. This ensures your funds are never permanently lost if the other person ignores or abandons the conversation.
 

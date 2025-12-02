@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# 🚀 Liberdus Validator
+# Liberdus Validator
 
 The **Liberdus Validator** is a core component of the Liberdus network, responsible for securing consensus, validating transactions, and participating in the governance and reward system.
 
-## 🍄‍🟫 Running a Validator Node
+## Running a Validator Node
 
 Running a Liberdus Validator Node allows developers and infrastructure operators to directly participate in block validation, network governance, and performance testing. Whether you’re joining the testnet, devnet, or setting up a localnet instance for development, the Liberdus validator stack provides a Docker-based setup designed for fast deployment, reproducibility, and easy updates.
 
@@ -14,7 +14,7 @@ For complete installation, configuration, and staking instructions including har
 
 > Important: All standby and active node must have the required minimum stake in order to earn rewards. The staking amount and cooldown parameters are subject to change based on votes via the LDAO.
 
-## 🌟 Validator Roles and Responsibilities
+## Validator Roles and Responsibilities
 
 * Validators lock (stake) LIB tokens to earn the right to participate in block validation (consensus).
 * They cycle between **active** and **standby** sets:
@@ -59,7 +59,7 @@ The lifecycle of a Liberdus validator describes the sequence of states a validat
 - After the cooldown, validators can withdraw their staked LIB and accrued rewards.
 - Validators exiting improperly, or with insufficient stake, may incur slashing penalties.
 
-## 📌 Governance, Parameters, and Upgradability
+## Governance, Parameters, and Upgradability
 
 * Key parameters such as minimum stake, reward calculations, stable price formula, and reward intervals are governed by the **Liberdus DAO (LDAO)**.
 * The **stable price oracle** uses a rolling average of LIB’s market price to make staking requirements stable in USD value.

@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# ⚙️ Scaling
+# Scaling
 
-## 🧭 Introduction
+## Introduction
 
 Liberdus inherits its **scaling architecture** from **Shardus**, which was built to overcome the limitations of traditional blockchain scaling. While most networks can only scale vertically or through limited forms of sharding, **Liberdus combines multiple scaling mechanisms**: horizontal scaling, linear scaling, and autoscaling, to ensure that it can **grow efficiently, maintain low fees, and stay fully decentralized** no matter how large the network becomes.
 
@@ -16,7 +16,7 @@ Each scaling layer serves a different purpose:
 
 Together, these mechanisms make Liberdus one of the few decentralized systems capable of maintaining **global scalability and affordability**, even at massive transaction volumes.
 
-## 🧱 Horizontal Scaling
+## Horizontal Scaling
 
 From a hardware perspective, **Liberdus** is designed to scale **horizontally**. [Horizontal scaling](/docs/Glossary#-dynamic-state-sharding) is a method of increasing a network's capacity by **adding more nodes**. In contrast, **[vertical scalability](/docs/Glossary#-vertical-scalability)** increases capacity by upgrading existing nodes; adding extra **RAM, CPU, or storage** to the same machines. Liberdus uses **horizontal scaling** to increase **Throughput (TPS)**, **Storage** and **Bandwidth**.
 
@@ -31,7 +31,7 @@ Each additional node added to the network directly increases the **overall capac
 
 By scaling horizontally, Liberdus ensures sustainable growth while keeping node operation **accessible, equitable, and censorship-resistant**.
 
-## 📈 Linear Scaling
+## Linear Scaling
 
 Traditional Web3 networks that use **[network sharding](/docs/Glossary#-network-sharding)**, **transaction sharding**, or **static state sharding** have a fixed threshold where each shard becomes “full”. This threshold is determined by the maximum number of nodes permitted within a shard. Once the shard reaches that limit, a new shard must be created; a process known as **[stepwise scaling](/docs/Glossary#-stepwise-scaling)**.
 
@@ -47,7 +47,7 @@ For example: If each active Liberdus node provides **2 TPS**, and there are **1,
 
 Linear scaling allows Liberdus to maintain consistent performance, **adapt dynamically**, and expand **without friction**.
 
-## 🔁 Autoscaling
+## Autoscaling
 
 In major Web2 platforms, backend systems can **dynamically scale up or down** based on traffic. During high-demand periods (e.g., holiday sales), server capacity might increase fivefold; then automatically shrink when demand drops. This ensures performance remains stable while minimizing unnecessary operating costs.
 

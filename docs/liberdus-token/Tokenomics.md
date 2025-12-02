@@ -2,16 +2,16 @@
 sidebar_position: 1
 ---
 
-# 🏷️ Tokenomics
+# Tokenomics
 
-## 🌟 Overview
+## Overview
 Liberdus’s tokenomics are designed to align economic incentives with the network’s [**horizontally scaling**](/docs/Glossary#%EF%B8%8F-horizontal-scaling) architecture. By leveraging Shardus’s [**dynamic state sharding**](/docs/Glossary#-dynamic-state-sharding) and [**autoscaling**](/docs/Glossary#-autoscaling) the Liberdus network can dynamically expand or contract based on transaction demand, and its tokenomics model must factor this in.
 
 Liberdus employs a **[capped elastic supply](/docs/Glossary#%EF%B8%8F-capped-elastic-supply) model** that ensures network scalability, validator profitability, and long-term sustainability without compromising decentralization. The system utilises **issuance and burning** to reach a natural equilibrium between supply and demand over time.
 
 For a more comprehensive breakdown of Liberdus’s tokenomics model and design, please see the [Liberdus tokenomics page](https://liberdus.com/tokenomics/).
 
-## 🪙 LIB Fundamentals
+## LIB Fundamentals
 
 The native token of the Liberdus network is **LIB**, which also serves as its **ticker symbol**. LIB functions both as a **coin** on the Liberdus network and a **bridged token** on smart contract platforms like **Ethereum, BNB Chain, and Polygon**.
 
@@ -22,7 +22,7 @@ The native token of the Liberdus network is **LIB**, which also serves as its **
 | **Elastic Supply** | Can enter inflationary, disinflationary, or deflationary phases based on network conditions |
 | **Governance Immutability** | The 210M cap cannot be altered, even through governance |
 
-## ⚙️ Token Utility
+## Token Utility
 
 LIB serves multiple roles across the Liberdus ecosystem:
 
@@ -38,7 +38,7 @@ LIB serves multiple roles across the Liberdus ecosystem:
 
 The LIB token’s **deflationary nature** is enforced through constant burning across multiple dimensions- fees, tolls, penalties, and more- ensuring **long-term scarcity**.
 
-## 💰 Token Distribution
+## Token Distribution
 
 | Category | Allocation | Amount (Millions) | Distribution Period | Notes |
 |-----------|-------------|-------------------|---------------------|--------|
@@ -51,7 +51,7 @@ The LIB token’s **deflationary nature** is enforced through constant burning a
 
 > **Important:** The maximum supply will never be fully reached, all transaction, toll, penalty, and governance fees are **permanently burnt**.
 
-## 🚫 Fair Launch & No Private Funding
+## Fair Launch & No Private Funding
 
 Liberdus launched **fairly**: with **no private sales**, **no VC rounds**, and **no discounted early allocations**.  
 Every LIB in circulation is **earned** through contribution, node operation, or liquidity provision.
@@ -61,7 +61,7 @@ This ensures:
 - Public value creation, not private capture.  
 - Long-term decentralization and community trust.
 
-## 💠 Monetary Policy
+## Monetary Policy
 
 Liberdus’s monetary policy is designed for **scarcity, adaptability, and sustainability**.
 
@@ -74,7 +74,7 @@ Liberdus’s monetary policy is designed for **scarcity, adaptability, and susta
 
 This ensures that as Liberdus adoption grows, **issuance and burning dynamically adjust** to preserve economic equilibrium.
 
-## ⚖️ Design Considerations
+## Design Considerations
 
 Liberdus’s horizontally scaling architecture introduces unique economic requirements:
 
@@ -89,9 +89,9 @@ The adaptive tokenomics model balances this ratio dynamically:
 - **High profitability** → increases standby nodes (boosts scalability).  
 - **Low profitability** → reduces standby nodes (conserves resources).  
 
-✅ This ensures **efficient scaling** without excessive inflation or waste.
+This ensures **efficient scaling** without excessive inflation or waste.
 
-## 🔄 Adaptive Issuance Model
+## Adaptive Issuance Model
 
 Liberdus rejected traditional linear or halving-based issuance models (e.g., Bitcoin, Solana) because they:
 - Create unpredictable APY fluctuations.  
@@ -104,7 +104,7 @@ Instead, Liberdus employs an **adaptive issuance model**, dynamically maintainin
 
 This design keeps validator rewards competitive, maintains decentralization, and prevents long-term inflationary drift.
 
-## 🧱 Long-Term Sustainability
+## Long-Term Sustainability
 
 As adoption grows:
 - **Transaction and toll burns** will exceed new issuance.  
