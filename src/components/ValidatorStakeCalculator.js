@@ -211,15 +211,25 @@ export default function ValidatorStakeCalculator() {
           <div style={buttonSectionStyle}>
             <h4 style={{...cardTitleStyle, fontSize: '16px', marginBottom: '12px'}}>Get LIB Tokens</h4>
             
-            <button style={buttonStyle}>
+            <a 
+              href="https://liberdus.com/otc/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{...buttonStyle, textDecoration: 'none'}}
+            >
               <span>🏪</span>
               LiberdusOTC Platform ↗
-            </button>
+            </a>
             
-            <button style={secondaryButtonStyle}>
+            <a 
+              href="https://dexscreener.com/polygon/0x693ed886545970F0a3ADf8C59af5cCdb6dDF0a76" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{...secondaryButtonStyle, textDecoration: 'none'}}
+            >
               <span>📊</span>
               View on DEXScreener ↗
-            </button>
+            </a>
           </div>
         </div>
       </div>
