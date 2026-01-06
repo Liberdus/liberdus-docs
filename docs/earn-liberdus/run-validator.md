@@ -24,7 +24,7 @@ For complete installation, configuration, and staking instructions including har
 * Validators may be penalized (slashed) for misbehavior (e.g. double signing, being offline).
 * Validators also participate in on-chain governance via DAO voting and parameter updates.
 
-## 🫐 Validator Lifecycle Summary
+## Validator Lifecycle Summary
 
 The lifecycle of a Liberdus validator describes the sequence of states a validator node passes through, from joining the network to exiting. Understanding this lifecycle is crucial for maintaining uptime, avoiding penalties, and maximizing rewards.
 
