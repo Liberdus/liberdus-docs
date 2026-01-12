@@ -1,9 +1,8 @@
 ---
 sidebar_position: 1
-sidebar_label: Run a Validator Node
 ---
 
-# Liberdus Validator
+# Run a Validator Node
 
 The **Liberdus Validator** is a core component of the Liberdus network, responsible for securing consensus, validating transactions, and participating in the governance and reward system.
 
