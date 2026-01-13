@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 ---
 
-# Liberdus Ambassador Program
+# Become a Liberdus Ambassador
 
 The **Liberdus Ambassador Program** will launch after mainnet to recognize and empower dedicated community members who share Liberdus’s vision for private, censorship-resistant communication.
 
